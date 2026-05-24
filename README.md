@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Iris Flower Classification
 
 This project uses Machine Learning to classify Iris flowers into:
@@ -28,3 +29,6 @@ This project uses Machine Learning to classify Iris flowers into:
 
 ```bash
 python iris_classification.py
+=======
+# CodeAlpha_IrisFlowerClassification
+>>>>>>> 11084319783b7278da8afaf5e1b16b13d0d94afd
